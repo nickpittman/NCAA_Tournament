@@ -8,3 +8,5 @@ Every year, the top 68 teams in college basketball compete in a postseason tourn
  3. Weighted kNN: 41.85%
  4. Random Forest: 39.22%
  5. Decision Tree: 38.99%
+
+Data was sourced from [Andrew Sundberg on Kaggle](https://www.kaggle.com/datasets/andrewsundberg/college-basketball-dataset)
